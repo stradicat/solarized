@@ -18,3 +18,13 @@ colors:
   blue: "#268bd2"
   cyan: "#2aa198"
   green: "#859900"
+  # additional contrast colors
+  darkgrey: "#808080"
+  white: "#f6f6f6"
+  base02_contrast: "#ede7d4"
+  aquamarine: "#dbffdb"
+  brightgreen: "#83ba0d"
+  lightorange: "#feb94b"
+  copper: "#cc7833"
+  lightpink: "#ffcccc"
+  darkpink: "##ff82ce"
