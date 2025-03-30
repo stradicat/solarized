@@ -2,3 +2,5 @@ __pycache__
 /.idea
 /output
 .DS_Store
+.projectile
+
